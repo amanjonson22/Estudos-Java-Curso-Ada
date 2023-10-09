@@ -9,6 +9,12 @@ public class EstudoBoolean {
         
 
         // <--- faz comentário
+        // operador and: &&
+        // operador or: ||
+
+
+        String mensagem = fimDeSemana ? "é fim de semana" : "Não é fim de semana";
+        System.out.println(mensagem);
 
     }
 }
