@@ -7,5 +7,8 @@ public class Main {
 
         nome = "Fernanda";
         System.out.println("Olá, " + nome);
+
+        nome = "Gabriela";
+        System.out.println("Olá, " + nome);
     }
 }
