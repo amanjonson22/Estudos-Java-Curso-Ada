@@ -27,7 +27,7 @@ public class testeNovoPrograma {
             situacao = "Reprovado";
         }
 
-        System.out.printf("Olá, professor. O aluno %s está com a seguinte média: %f. E sua situação é: %s.", nome, media, situacao);
+        System.out.printf("Olá, professor. O aluno %s está com a seguinte média: %.2f. E sua situação é: %s.", nome, media, situacao);
 
         scanner.close();
     }
