@@ -2,7 +2,6 @@ import java.time.LocalDate;
 import java.time.format.TextStyle;
 import java.util.Locale;
 import java.time.LocalDateTime;
-import javax.swing.Spring;
 
 public class EstudosStringsDatas {
     public static void main(String[] args) {
